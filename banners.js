@@ -9,6 +9,14 @@ window.Banners = [
 		hide: ['ios']
 	},
 	{
+		title: 'Обновление',
+		text: 'Попробуйте новые радиостанции',
+		category: 'Обновление',
+		image: '/images/banners/top.jpg',
+		type: 'link',
+		link: 'https://vk.com/wall-162510713_18'
+	},
+	{
 		title: 'Наше сообщество',
 		text: 'Подпишитесь, будьте в курсе новинок',
 		category: 'Сообщество',
