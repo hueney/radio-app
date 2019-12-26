@@ -1,13 +1,5 @@
 window.Banners = [
 	{
-		title: 'Помогите нам выиграть в конкурсе',
-		text: 'Поставьте лайк нашему приложению',
-		category: 'Поддержать',
-		image: '/images/banners/contest.jpg',
-		type: 'link',
-		link: 'https://vk.com/app6837700#app-7088470',
-	},
-	{
 		title: 'Поддержите нас',
 		text: 'Мы стараемся ради вас!',
 		category: 'Поддержать',
