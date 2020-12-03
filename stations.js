@@ -66,8 +66,8 @@ window.Stations = {
         "img_big": "images\/big_1679091c5a880faf6fb5e6087eb1b2dc.jpg",
         "img_small": "images\/small_1679091c5a880faf6fb5e6087eb1b2dc.jpg",
         "is_hq": false,
-        "src": "https:\/\/stream2.radio.funny-dev.ru\/radio\/8010\/stream\/6",
-        "mobile_src": "http:\/\/ic3.101.ru:8000\/s20",
+        "src": "https:\/\/pub0301.101.ru:8443\/stream\/air\/mp3\/256\/99",
+        "mobile_src": "https:\/\/pub0301.101.ru:8443\/stream\/air\/mp3\/256\/99",
         "group": "https:\/\/vk.com\/nrj",
         "lang": ""
     },
