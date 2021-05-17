@@ -1,7 +1,7 @@
 window.Stations = {
     "1": {
         "id": 1,
-        "name": "Европа плюс",
+        "name": "Европа Плюс",
         "genre": "Танцевальная",
         "img_big": "images\/big_c4ca4238a0b923820dcc509a6f75849b.jpg",
         "img_small": "images\/small_c4ca4238a0b923820dcc509a6f75849b.jpg",
