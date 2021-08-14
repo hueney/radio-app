@@ -1,7 +1,7 @@
 window.Stations = {
     "1": {
         "id": 1,
-        "name": "Европа Плюс • Поп",
+        "name": "Европа плюс",
         "genre": "Танцевальная",
         "img_big": "images\/big_c4ca4238a0b923820dcc509a6f75849b.jpg",
         "img_small": "images\/small_c4ca4238a0b923820dcc509a6f75849b.jpg",
@@ -66,8 +66,8 @@ window.Stations = {
         "img_big": "images\/big_1679091c5a880faf6fb5e6087eb1b2dc.jpg",
         "img_small": "images\/small_1679091c5a880faf6fb5e6087eb1b2dc.jpg",
         "is_hq": false,
-        "src": "https:\/\/pub0301.101.ru:8443\/stream\/air\/mp3\/256\/99",
-        "mobile_src": "https:\/\/pub0301.101.ru:8443\/stream\/air\/mp3\/256\/99",
+        "src": "https:\/\/stream2.radio.funny-dev.ru\/radio\/8010\/stream\/6",
+        "mobile_src": "http:\/\/ic3.101.ru:8000\/s20",
         "group": "https:\/\/vk.com\/nrj",
         "lang": ""
     },
@@ -126,8 +126,8 @@ window.Stations = {
         "img_big": "images\/big_bbf94b34eb32268ada57a3be5062fe7d.jpg",
         "img_small": "images\/small_bbf94b34eb32268ada57a3be5062fe7d.jpg",
         "is_hq": true,
-        "src": "https:\/\/air.radiorecord.ru:805\/deep96.aacp",
-        "mobile_src": "https:\/\/air.radiorecord.ru:805\/deep96.aacp",
+        "src": "https:\/\/air.radiorecord.ru:805\/deep_320",
+        "mobile_src": "https:\/\/air.radiorecord.ru:805\/deep_320",
         "group": "https:\/\/vk.com\/record",
         "lang": ""
     },
