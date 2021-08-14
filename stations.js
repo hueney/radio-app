@@ -126,8 +126,8 @@ window.Stations = {
         "img_big": "images\/big_bbf94b34eb32268ada57a3be5062fe7d.jpg",
         "img_small": "images\/small_bbf94b34eb32268ada57a3be5062fe7d.jpg",
         "is_hq": true,
-        "src": "https:\/\/air.radiorecord.ru:805\/deep_320",
-        "mobile_src": "https:\/\/air.radiorecord.ru:805\/deep_320",
+        "src": "https:\/\/air.radiorecord.ru:805\/deep96.aacp",
+        "mobile_src": "https:\/\/air.radiorecord.ru:805\/deep96.aacp",
         "group": "https:\/\/vk.com\/record",
         "lang": ""
     },
