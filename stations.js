@@ -2146,18 +2146,5 @@ window.Stations = {
         "mobile_src": "http:\/\/solfm.ru:8000\/online320",
         "group": "https:\/\/vk.com\/solfm",
         "lang": ""
-    },
-
-    "700": {
-        "id": 700,
-        "name": "POWER FM Россия",
-        "genre": "Танцевальная",
-        "img_big": "images\/powerfm800.png",
-        "img_small": "images/powerfm800.png",
-        "is_hq": true,
-        "src": "https:\/\/radio-connect.dline-media.com\/powerfm",
-        "mobile_src": "https:\/\/radio-connect.dline-media.com\/powerfm",
-        "group": "https:\/\/vk.com\/powerfmrus",
-        "lang": ""
     }
 };
