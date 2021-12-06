@@ -1,14 +1,5 @@
 window.Banners = [
 	{
-		title: 'Поддержите нас',
-		text: 'Мы стараемся ради вас!',
-		category: 'Поддержать',
-		image: '/images/banners/donate.jpg',
-		type: 'link',
-		link: 'https://vk.com/app6471849_-162510713',
-		hide: ['ios']
-	},
-	{
 		title: 'Наше сообщество',
 		text: 'Подпишитесь, будьте в курсе новинок',
 		category: 'Сообщество',
