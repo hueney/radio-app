@@ -1,5 +1,14 @@
 window.Banners = [
 	{
+		title: 'POWER FM - Вся Сила Хитов!',
+		text: 'Включи Самое МОЩНОЕ Радио!',
+		category: 'ПРОМО',
+		image: '/images/banners/3nY0N4R3GdQ.jpg',
+		type: 'station',
+		link: '700'
+	},
+
+	{
 		title: 'Наше сообщество',
 		text: 'Подпишитесь, будьте в курсе новинок',
 		category: 'Сообщество',
